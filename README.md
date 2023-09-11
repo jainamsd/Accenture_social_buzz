@@ -21,22 +21,20 @@ Social Buzz engaged us to help them with their rapid growth and data management 
 3. They want to learn data best practices from larger corporations due to their substantial data challenges.
 
 ## Project Tasks Completed
-In this project, we undertook the following tasks:
+In this project, I undertook the following tasks:
 - Cleaned and prepared three datasets: Content, Reactions, and ReactionTypes.
 - Merged the datasets to create a comprehensive dataset.
 - Analyzed the content categories, highlighting the top 5 categories with the largest popularity.
 - Created visualizations to represent the data.
 
 ## Data Analysis and Visualization
-We analyzed the data and created visualizations to provide insights into the content categories and user reactions. Key visualizations include:
+I analyzed the data and created visualizations to provide insights into the content categories and user reactions. Key visualizations include:
 - Count of each unique content category.
 - Count of user reactions on content.
 - Month with the most posts.
 
 ## Project Results
-- We provided Social Buzz with an audit of their big data practices.
-- Recommendations for a successful IPO were outlined.
-- We analyzed their content categories and identified the top 5 categories with the largest popularity.
+- I analyzed their content categories and identified the top 5 categories with the largest popularity.
 
 ## Project Files
 - `Results.csv`: Contains the results of the content category analysis.
